@@ -1,7 +1,7 @@
 {
-    "artist": "Some artist",
-    "title": "Example two",
-    "properties": { "bpm": 100 },
+    "artist": "Nirvana",
+    "title": "Come as you are",
+    "properties": { "bpm": 120 },
     "tracks": [
         {
             "instrument": "drums",
@@ -13,45 +13,116 @@
                     "steps": [
                         {
                             "notes": [
-                                { "velocity": 64, "pitch": "HH" },
-                                { "velocity": 64, "pitch": "BS" }
+                                {
+                                    "velocity": 64,
+                                    "pitch": "HH"
+                                },
+                                {
+                                    "velocity": 64,
+                                    "pitch": "BS"
+                                }
                             ]
                         },
-                        { "notes": [] },
-                        { "notes": [{ "velocity": 64, "pitch": "HH" }] },
-                        { "notes": [] },
+                        {
+                            "notes": []
+                        },
                         {
                             "notes": [
-                                { "velocity": 64, "pitch": "HH" },
-                                { "velocity": 64, "pitch": "SN" }
+                                {
+                                    "velocity": 64,
+                                    "pitch": "HH"
+                                }
                             ]
                         },
-                        { "notes": [] },
-                        { "notes": [{ "velocity": 64, "pitch": "HH" }] },
-                        { "notes": [] },
+                        {
+                            "notes": []
+                        },
                         {
                             "notes": [
-                                { "velocity": 64, "pitch": "HH" },
-                                { "velocity": 64, "pitch": "BS" }
+                                {
+                                    "velocity": 64,
+                                    "pitch": "HH"
+                                },
+                                {
+                                    "pitch": "SN",
+                                    "velocity": 100
+                                }
                             ]
                         },
-                        { "notes": [] },
+                        {
+                            "notes": []
+                        },
                         {
                             "notes": [
-                                { "velocity": 64, "pitch": "HH" },
-                                { "velocity": 64, "pitch": "BS" }
+                                {
+                                    "velocity": 64,
+                                    "pitch": "HH"
+                                }
                             ]
                         },
-                        { "notes": [] },
+                        {
+                            "notes": []
+                        },
                         {
                             "notes": [
-                                { "velocity": 64, "pitch": "HH" },
-                                { "velocity": 64, "pitch": "SN" }
+                                {
+                                    "velocity": 64,
+                                    "pitch": "HH"
+                                },
+                                {
+                                    "pitch": "BS",
+                                    "velocity": 100
+                                }
                             ]
                         },
-                        { "notes": [] },
-                        { "notes": [{ "velocity": 64, "pitch": "HH" }] },
-                        { "notes": [] }
+                        {
+                            "notes": []
+                        },
+                        {
+                            "notes": [
+                                {
+                                    "velocity": 64,
+                                    "pitch": "HH"
+                                },
+                                {
+                                    "pitch": "BS",
+                                    "velocity": 100
+                                }
+                            ]
+                        },
+                        {
+                            "notes": []
+                        },
+                        {
+                            "notes": [
+                                {
+                                    "velocity": 64,
+                                    "pitch": "HH"
+                                },
+                                {
+                                    "pitch": "SN",
+                                    "velocity": 100
+                                }
+                            ]
+                        },
+                        {
+                            "notes": []
+                        },
+                        {
+                            "notes": [
+                                {
+                                    "velocity": 64,
+                                    "pitch": "HH"
+                                },
+                                {
+                                    "pitch": "BS",
+                                    "velocity": 100
+                                }
+                            ]
+                        },
+                        {
+                            "notes": []
+                        }
                     ]
                 },
                 {
@@ -61,35 +132,103 @@
                     "steps": [
                         {
                             "notes": [
-                                { "velocity": 64, "pitch": "HH" },
-                                { "velocity": 64, "pitch": "BS" }
+                                {
+                                    "pitch": "HH",
+                                    "velocity": 100
+                                },
+                                {
+                                    "pitch": "BS",
+                                    "velocity": 100
+                                }
                             ]
                         },
-                        { "notes": [{ "velocity": 64, "pitch": "HH" }] },
-                        { "notes": [{ "velocity": 64, "pitch": "HH" }] },
-                        { "notes": [{ "velocity": 64, "pitch": "HH" }] },
-                        { "notes": [{ "velocity": 64, "pitch": "SN" }] },
-                        { "notes": [{ "velocity": 64, "pitch": "HH" }] },
-                        { "notes": [{ "velocity": 64, "pitch": "HH" }] },
-                        { "notes": [{ "velocity": 64, "pitch": "HH" }] },
+                        null,
                         {
                             "notes": [
-                                { "velocity": 64, "pitch": "HH" },
-                                { "velocity": 64, "pitch": "BS" }
+                                {
+                                    "pitch": "HH",
+                                    "velocity": 100
+                                },
+                                {
+                                    "pitch": "BS",
+                                    "velocity": 100
+                                }
                             ]
                         },
-                        { "notes": [{ "velocity": 64, "pitch": "HH" }] },
+                        null,
                         {
                             "notes": [
-                                { "velocity": 64, "pitch": "HH" },
-                                { "velocity": 64, "pitch": "BS" }
+                                {
+                                    "pitch": "HH",
+                                    "velocity": 100
+                                },
+                                {
+                                    "pitch": "SN",
+                                    "velocity": 100
+                                }
                             ]
                         },
-                        { "notes": [{ "velocity": 64, "pitch": "HH" }] },
-                        { "notes": [{ "velocity": 64, "pitch": "SN" }] },
-                        { "notes": [{ "velocity": 64, "pitch": "HH" }] },
-                        { "notes": [{ "velocity": 64, "pitch": "HH" }] },
-                        { "notes": [{ "velocity": 64, "pitch": "HH" }] }
+                        null,
+                        {
+                            "notes": [
+                                {
+                                    "pitch": "HH",
+                                    "velocity": 100
+                                },
+                                {
+                                    "pitch": "BS",
+                                    "velocity": 100
+                                }
+                            ]
+                        },
+                        null,
+                        {
+                            "notes": [
+                                {
+                                    "pitch": "HH",
+                                    "velocity": 100
+                                }
+                            ]
+                        },
+                        null,
+                        {
+                            "notes": [
+                                {
+                                    "pitch": "HH",
+                                    "velocity": 100
+                                },
+                                {
+                                    "pitch": "BS",
+                                    "velocity": 100
+                                }
+                            ]
+                        },
+                        null,
+                        {
+                            "notes": [
+                                {
+                                    "pitch": "HH",
+                                    "velocity": 100
+                                },
+                                {
+                                    "pitch": "SN",
+                                    "velocity": 100
+                                }
+                            ]
+                        },
+                        null,
+                        {
+                            "notes": [
+                                {
+                                    "pitch": "HH",
+                                    "velocity": 100
+                                },
+                                {
+                                    "pitch": "BS",
+                                    "velocity": 100
+                                }
+                            ]
+                        }
                     ]
                 }
             ]

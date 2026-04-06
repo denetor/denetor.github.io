@@ -1,22 +1,27 @@
 [
     {
         "id": "1",
-        "artist": "Some artist",
-        "title": "Example one"
+        "artist": "Coldplay",
+        "title": "Yellow"
     },
     {
         "id": "2",
-        "artist": "Some other artist",
-        "title": "Example two"
+        "artist": "Nirvana",
+        "title": "Come as you are"
     },
     {
         "id": "3",
-        "artist": "Some artist",
-        "title": "Example three"
+        "artist": "Primus",
+        "title": "My name is Mud"
     },
     {
         "id": "4",
         "artist": "The beatles",
         "title": "Oh, darling"
+    },
+    {
+        "id": "5",
+        "artist": "The mission",
+        "title": "Garden of delight"
     }
 ]

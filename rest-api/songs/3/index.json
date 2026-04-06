@@ -1,7 +1,7 @@
 {
-    "artist": "Some artist",
-    "title": "Example three",
-    "properties": { "bpm": 90 },
+    "artist": "Primus",
+    "title": "My name is Mud",
+    "properties": { "bpm": 94 },
     "tracks": [
         {
             "instrument": "drums",
@@ -9,101 +9,103 @@
                 {
                     "beatsPerBar": 4,
                     "beatUnit": 4,
-                    "stepsPerBeat": 2,
+                    "stepsPerBeat": 4,
                     "steps": [
                         {
-                            "notes": [{ "velocity": 64, "pitch": "HH" }]
-                        },
-                        { "notes": [{ "velocity": 64, "pitch": "HH" }] },
-                        {
-                            "notes": [{ "velocity": 64, "pitch": "HH" }]
-                        },
-                        { "notes": [{ "velocity": 64, "pitch": "HH" }] },
-                        {
-                            "notes": [{ "velocity": 64, "pitch": "HH" }]
-                        },
-                        {
-                            "notes": [{ "velocity": 64, "pitch": "HH" }]
+                            "notes": [
+                                {
+                                    "velocity": 64,
+                                    "pitch": "HH"
+                                },
+                                {
+                                    "velocity": 64,
+                                    "pitch": "BS"
+                                }
+                            ]
                         },
                         {
-                            "notes": [{ "velocity": 64, "pitch": "HH" }]
-                        },
-                        { "notes": [{ "velocity": 64, "pitch": "HH" }] }
-                    ]
-                },
-                {
-                    "beatsPerBar": 4,
-                    "beatUnit": 4,
-                    "stepsPerBeat": 2,
-                    "steps": [
-                        {
-                            "notes": [{ "velocity": 64, "pitch": "HH" }]
-                        },
-                        { "notes": [{ "velocity": 64, "pitch": "HH" }] },
-                        {
-                            "notes": [{ "velocity": 64, "pitch": "HH" }]
-                        },
-                        { "notes": [{ "velocity": 64, "pitch": "HH" }] },
-                        {
-                            "notes": [{ "velocity": 64, "pitch": "HH" }]
+                            "notes": []
                         },
                         {
-                            "notes": [{ "velocity": 64, "pitch": "HH" }]
+                            "notes": [
+                                {
+                                    "pitch": "BS",
+                                    "velocity": 100
+                                }
+                            ]
                         },
                         {
-                            "notes": [{ "velocity": 64, "pitch": "HH" }]
-                        },
-                        { "notes": [{ "velocity": 64, "pitch": "HH" }] }
-                    ]
-                },
-                {
-                    "beatsPerBar": 4,
-                    "beatUnit": 4,
-                    "stepsPerBeat": 2,
-                    "steps": [
-                        {
-                            "notes": [{ "velocity": 64, "pitch": "HH" }]
-                        },
-                        { "notes": [{ "velocity": 64, "pitch": "HH" }] },
-                        {
-                            "notes": [{ "velocity": 64, "pitch": "HH" }]
-                        },
-                        { "notes": [{ "velocity": 64, "pitch": "HH" }] },
-                        {
-                            "notes": [{ "velocity": 64, "pitch": "HH" }]
+                            "notes": []
                         },
                         {
-                            "notes": [{ "velocity": 64, "pitch": "HH" }]
+                            "notes": [
+                                {
+                                    "velocity": 64,
+                                    "pitch": "HH"
+                                },
+                                {
+                                    "velocity": 64,
+                                    "pitch": "SN"
+                                }
+                            ]
                         },
                         {
-                            "notes": [{ "velocity": 64, "pitch": "HH" }]
-                        },
-                        { "notes": [{ "velocity": 64, "pitch": "HH" }] }
-                    ]
-                },
-                {
-                    "beatsPerBar": 4,
-                    "beatUnit": 4,
-                    "stepsPerBeat": 2,
-                    "steps": [
-                        {
-                            "notes": [{ "velocity": 64, "pitch": "HH" }]
-                        },
-                        { "notes": [{ "velocity": 64, "pitch": "HH" }] },
-                        {
-                            "notes": [{ "velocity": 64, "pitch": "HH" }]
-                        },
-                        { "notes": [{ "velocity": 64, "pitch": "HH" }] },
-                        {
-                            "notes": [{ "velocity": 64, "pitch": "HH" }]
+                            "notes": []
                         },
                         {
-                            "notes": [{ "velocity": 64, "pitch": "HH" }]
+                            "notes": [
+                                {
+                                    "pitch": "BS",
+                                    "velocity": 100
+                                }
+                            ]
                         },
                         {
-                            "notes": [{ "velocity": 64, "pitch": "HH" }]
+                            "notes": []
                         },
-                        { "notes": [{ "velocity": 64, "pitch": "HH" }] }
+                        {
+                            "notes": [
+                                {
+                                    "velocity": 64,
+                                    "pitch": "HH"
+                                },
+                                {
+                                    "velocity": 64,
+                                    "pitch": "BS"
+                                }
+                            ]
+                        },
+                        {
+                            "notes": []
+                        },
+                        {
+                            "notes": [
+                                {
+                                    "pitch": "SN",
+                                    "velocity": 100
+                                }
+                            ]
+                        },
+                        {
+                            "notes": []
+                        },
+                        {
+                            "notes": [
+                                {
+                                    "velocity": 64,
+                                    "pitch": "HH"
+                                }
+                            ]
+                        },
+                        {
+                            "notes": []
+                        },
+                        {
+                            "notes": []
+                        },
+                        {
+                            "notes": []
+                        }
                     ]
                 }
             ]

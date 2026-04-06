@@ -1,6 +1,6 @@
 {
-    "artist": "Some artist",
-    "title": "Example one",
+    "artist": "Coldplay",
+    "title": "Yellow",
     "properties": { "bpm": 100 },
     "tracks": [
         {
